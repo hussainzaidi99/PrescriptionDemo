@@ -10,5 +10,21 @@ venv/
 # VSCode settings
 .vscode/
 
+# Local environment variables
+.env
+
 # Ignore your data file if it’s large (optional)
 Medicine.csv
+
+# macOS system files
+.DS_Store
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
