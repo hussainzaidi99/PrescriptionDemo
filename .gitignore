@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+
+# VSCode settings
+.vscode/
+
+# Ignore your data file if it’s large (optional)
+Medicine.csv
