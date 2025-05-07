@@ -14,7 +14,7 @@ venv/
 .env
 
 # Ignore your data file if it’s large (optional)
-Medicine.csv
+
 
 # macOS system files
 .DS_Store
